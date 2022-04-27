@@ -1,0 +1,7 @@
+{
+    "main": {
+        "iconbitmap": "Assets\\Icons\\GameIcon.ico",    // Icon of main window
+        "title": "Launcher: Fun Industry Game",         // Title of main window
+        "resizable": [false, false]                     // User can resize
+    }
+}
